@@ -29,7 +29,7 @@ A Mini Book Rental Platform for a a small library, with Laravel and React.js.
 
 1. Clone the repository
 ```bash
-    git clone <your-repo-url>
+    git clone <repo-url>
 ```
 
 ### Backend Setup (Laravel)
